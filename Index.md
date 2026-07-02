@@ -13,5 +13,4 @@ I've done a little bit of thereotical research in chemistry.
 I've worked on computational chemistry. Feel free to give me any advice on computational chem!! I REALLY need it.
 ##CV
 I may attach it here later on.
-##Contact
-Email:song991301@gmail.com
+
