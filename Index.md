@@ -13,4 +13,5 @@ I've done a little bit of thereotical research in chemistry.
 I've worked on computational chemistry. Feel free to give me any advice on computational chem!! I REALLY need it.
 ##CV
 I may attach it here later on.
-
+##What's my plan for this summer?
+I need to take a BREAK! 
